@@ -1,0 +1,24 @@
+{
+  "name": "bingbook",
+  "version": "1.0.0",
+  "description": "Gitbook demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wangbing0011/bingbook.git"
+  },
+  "keywords": [],
+  "author": "bing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wangbing0011/bingbook/issues"
+  },
+  "homepage": "https://github.com/Wangbing0011/bingbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "dependencies": {}
+}
